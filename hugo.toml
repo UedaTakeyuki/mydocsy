@@ -129,7 +129,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/UedaTakeyuki/mydocsy"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/google/docsy"
 
@@ -151,6 +151,9 @@ offlineSearch = false
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
+
+# Hugo Google Adsense Module
+google_adsense = 'ca-pub-1717720203982550'
 
 # User interface configuration
 [params.ui]
@@ -230,4 +233,7 @@ enable = false
     disable = false
   [[module.imports]]
     path = "github.com/google/docsy/dependencies"
+    disable = false
+  [[module.imports]]
+    path = 'github.com/hugomods/google-adsense'
     disable = false
