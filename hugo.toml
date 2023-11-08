@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Atelier UEDA"
+title = "Atelier UEDA docsy base"
 
 # Language settings
 contentDir = "content/en"
