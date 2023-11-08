@@ -1,5 +1,5 @@
 ---
-title: Atelier UEDA docsy basey
+title: Atelier UEDA
 ---
 
 {{< blocks/cover title="Welcome to Atelier UEDA!" image_anchor="center" height="full" >}}
