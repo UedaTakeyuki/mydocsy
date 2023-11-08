@@ -6,4 +6,6 @@ draft: false
 
 けろけろポスト
 
-{{< figure src="docsy-diagrams.svg" caption="Mouse over the above image and click the Edit button!">}}
+{{< figure src="3rd-post.drawio.svg" caption="Mouse over the above image and click the Edit button!">}}
+
+{{< figure src="ミドリガメ.drawio.svg">}}
