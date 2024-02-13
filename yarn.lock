@@ -588,10 +588,10 @@ http2-wrapper@^2.1.10:
     quick-lru "^5.1.1"
     resolve-alpn "^1.2.0"
 
-hugo-extended@0.120.4:
-  version "0.120.4"
-  resolved "https://registry.yarnpkg.com/hugo-extended/-/hugo-extended-0.120.4.tgz#d558384fca99baa5051edafe702369966488cd0b"
-  integrity sha512-GaQ8irLvb661W0IQegsG7wqnYzWhNDBOqPAu/C4SpnUv+lmWOdf7yGfT1UUB53IC/VPsVPvBJQ+1qdoEOe9Rkg==
+hugo-extended@0.122.0:
+  version "0.122.0"
+  resolved "https://registry.yarnpkg.com/hugo-extended/-/hugo-extended-0.122.0.tgz#80ed2fcb165cf4a809230cb0ab3b2756a45402a6"
+  integrity sha512-f9kPVSKxk5mq62wmw1tbhg5CV7n93Tbt7jZoy+C3yfRlEZhGqBlxaEJ3MeeNoilz3IPy5STHB7R0Bdhuap7mHA==
   dependencies:
     careful-downloader "^3.0.0"
     log-symbols "^5.1.0"
