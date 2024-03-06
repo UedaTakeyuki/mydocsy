@@ -2,25 +2,30 @@
 title: Atelier UEDA
 ---
 
-{{< blocks/cover title="Welcome to Atelier UEDA!" image_anchor="center" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Unique software products &mdash; for you!</p>
+{{< blocks/cover image_anchor="center" height="full" >}}
+Wellcome to
+<h1 class="display-1"><p style="font-family: 'Parisienne'">Atelier UEDA</p></h1>
+
+Unique products that address unique problems.
+{.mt-5}
+
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
+{{% blocks/section %}}
+<b>Atelier Ueda</b> is an <i>Atelier de Software</i> dedicated to:
+
+- Solve a daily problem.
+- Be affordable, or free if possible.
+
+The software here may look slightly strange due to a unique approach to solving a unique problem.
+If you are lucky, there may be a software product here that solves a small problem that you are bothering.  
+
+I believe that the value of a software product arises when people use it, and that software that is not used by anyone has zero value, no matter how great, large, or interesting it is. So, if you like them and use them, there is no greater joy than that.
+{{% /blocks/section %}}
+
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
-
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/lead %}}
 
 
